@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "DotnettyServer": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "DockerfileRunArguments": "-p 6666:6666"
+    }
+  }
+}

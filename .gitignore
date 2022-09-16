@@ -1,0 +1,12 @@
+*.suo
+.vs/
+DotnettyClient/bin/
+DotnettyClient/obj/
+DotnettyServer/bin/
+DotnettyServer/obj/
+DotnettyServer/Properties/PublishProfiles/FolderProfile.pubxml.user
+UdpClient/bin/
+UdpClient/obj/
+WinFormsForCore/bin/
+WinFormsForCore/obj/
+*.user
